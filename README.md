@@ -1,2 +1,3 @@
 # project
-dev 101
+## coding project
+__coding is fun__
